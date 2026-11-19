@@ -1,0 +1,12 @@
+{
+  "name": "jianfu-gyoza-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "煎福鍋貼專賣官網(純靜態網站,訂單後端為 Supabase Edge Functions)",
+  "scripts": {
+    "start": "http-server . -p 8080 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
