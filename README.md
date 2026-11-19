@@ -103,3 +103,4 @@ python -m http.server 8080
 ## 技術
 
 Tailwind CSS (CDN) · Lucide Icons (CDN) · Vanilla JS · Google Apps Script · Service Worker
+
